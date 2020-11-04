@@ -1,0 +1,13 @@
+{
+  "name": "authgg-admin-api",
+  "version": "1.0.0",
+  "description": "a nodejs wrapper for authgg admin api",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "eslint": "^7.12.1"
+  }
+}
