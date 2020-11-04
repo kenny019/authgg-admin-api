@@ -88,4 +88,4 @@ Resets the HWID of user.
 
 #
 ### auth.gg api documentation
-`https://setup.auth.gg/`
+[https://setup.auth.gg/](https://setup.auth.gg/)
