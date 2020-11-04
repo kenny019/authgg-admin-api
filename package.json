@@ -4,10 +4,13 @@
   "description": "a nodejs wrapper for authgg admin api",
   "main": "index.js",
   "scripts": {},
-  "author": "",
+  "author": "kenny019",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.0",
-    "eslint": "^7.12.1"
-  }
+    "axios": "^0.21.0"
+  },
+  "bugs": {
+    "url": "hhttps://github.com/kenny019/authgg-admin-api/issues"
+  },
+  "homepage": "https://github.com/kenny019/authgg-admin-api#readme"
 }
