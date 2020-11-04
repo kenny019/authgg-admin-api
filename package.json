@@ -12,5 +12,6 @@
   "bugs": {
     "url": "hhttps://github.com/kenny019/authgg-admin-api/issues"
   },
-  "homepage": "https://github.com/kenny019/authgg-admin-api#readme"
+  "homepage": "https://github.com/kenny019/authgg-admin-api#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
