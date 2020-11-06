@@ -1,6 +1,6 @@
 {
   "name": "authgg-admin-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a nodejs wrapper for authgg admin api",
   "main": "index.js",
   "scripts": {},
@@ -12,5 +12,6 @@
   "bugs": {
     "url": "https://github.com/kenny019/authgg-admin-api/issues"
   },
-  "homepage": "https://github.com/kenny019/authgg-admin-api#readme"
+  "homepage": "https://github.com/kenny019/authgg-admin-api#readme",
+  "keywords": ["auth.gg", "authgg", "auth.gg api", "auth.gg admin api"]
 }
